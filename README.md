@@ -31,7 +31,7 @@
 * #### Lecture 6: Quantum Computing Hardware & Superconducting Circuits 📚
   * Check it here: [PDF](https://github.com/AstroQuanta/Qiskit-Global-Summer-School-2023/blob/61c587630a05c8459f473ad2742818f8785ddde3/lectures/pdfs/lecture-6-quantum-computing-hardware-%26-superconducting-circuits.pdf)
 * #### Lecture 7: Introduction to Quantum Noise 📚
-  * Check it here: [PDF]()
+  * Check it here: [PDF](https://github.com/AstroQuanta/Qiskit-Global-Summer-School-2023/blob/e971f011aa8417bb6eaa68d33b32cf7e66bb9de0/lectures/pdfs/Lecture%207%20-%20Introduction%20to%20Noise.pdf.zip)
   * Bonus Content - Check it here: [PDF](https://github.com/AstroQuanta/Qiskit-Global-Summer-School-2023/blob/61c587630a05c8459f473ad2742818f8785ddde3/lectures/pdfs/lecture-7-introduction-to-quantum-noise-bonus-content.pdf)
   * Coherent Error: ZZ \[Bonus\] - Check it here: [PDF](https://github.com/AstroQuanta/Qiskit-Global-Summer-School-2023/blob/61c587630a05c8459f473ad2742818f8785ddde3/lectures/pdfs/lecture-7-bonus-coherent-error-zz.pdf)
   * Digital Quantum Circuits (Pictorial) \[Bonus\] - Check it here: [PDF](https://github.com/AstroQuanta/Qiskit-Global-Summer-School-2023/blob/61c587630a05c8459f473ad2742818f8785ddde3/lectures/pdfs/lecture-7-bonus-zlakto-minev-cheat-sheet-t11-7-pictorial.pdf)
